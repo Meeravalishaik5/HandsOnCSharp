@@ -1,0 +1,6 @@
+E:\C#\InterfaceDemo\obj\Debug\InterfaceDemo.csprojAssemblyReference.cache
+E:\C#\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+E:\C#\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+E:\C#\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+E:\C#\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+E:\C#\InterfaceDemo\obj\Debug\InterfaceDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\dell\source\repos\StudentObjectDemo\bin\Debug\StudentObjectDemo.exe.config
+C:\Users\dell\source\repos\StudentObjectDemo\bin\Debug\StudentObjectDemo.exe
+C:\Users\dell\source\repos\StudentObjectDemo\bin\Debug\StudentObjectDemo.pdb
+C:\Users\dell\source\repos\StudentObjectDemo\obj\Debug\StudentObjectDemo.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\StudentObjectDemo\obj\Debug\StudentObjectDemo.exe
+C:\Users\dell\source\repos\StudentObjectDemo\obj\Debug\StudentObjectDemo.pdb

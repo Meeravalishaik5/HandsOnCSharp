@@ -1,0 +1,6 @@
+E:\Meeravali\ParseMethod\bin\Debug\ParseMethod.exe.config
+E:\Meeravali\ParseMethod\bin\Debug\ParseMethod.exe
+E:\Meeravali\ParseMethod\bin\Debug\ParseMethod.pdb
+E:\Meeravali\ParseMethod\obj\Debug\ParseMethod.csprojAssemblyReference.cache
+E:\Meeravali\ParseMethod\obj\Debug\ParseMethod.exe
+E:\Meeravali\ParseMethod\obj\Debug\ParseMethod.pdb

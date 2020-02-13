@@ -1,0 +1,6 @@
+C:\Users\dell\source\repos\CsharpDemo\bin\Debug\CsharpDemo.exe.config
+C:\Users\dell\source\repos\CsharpDemo\bin\Debug\CsharpDemo.exe
+C:\Users\dell\source\repos\CsharpDemo\bin\Debug\CsharpDemo.pdb
+C:\Users\dell\source\repos\CsharpDemo\obj\Debug\CsharpDemo.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\CsharpDemo\obj\Debug\CsharpDemo.exe
+C:\Users\dell\source\repos\CsharpDemo\obj\Debug\CsharpDemo.pdb

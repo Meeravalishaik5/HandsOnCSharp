@@ -1,0 +1,6 @@
+E:\C#\FilesIODemo\bin\Debug\FilesIODemo.exe.config
+E:\C#\FilesIODemo\bin\Debug\FilesIODemo.exe
+E:\C#\FilesIODemo\bin\Debug\FilesIODemo.pdb
+E:\C#\FilesIODemo\obj\Debug\FilesIODemo.csprojAssemblyReference.cache
+E:\C#\FilesIODemo\obj\Debug\FilesIODemo.exe
+E:\C#\FilesIODemo\obj\Debug\FilesIODemo.pdb

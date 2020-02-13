@@ -1,0 +1,6 @@
+C:\Users\dell\source\repos\AccountDemo\bin\Debug\AccountDemo.exe.config
+C:\Users\dell\source\repos\AccountDemo\bin\Debug\AccountDemo.exe
+C:\Users\dell\source\repos\AccountDemo\bin\Debug\AccountDemo.pdb
+C:\Users\dell\source\repos\AccountDemo\obj\Debug\AccountDemo.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\AccountDemo\obj\Debug\AccountDemo.exe
+C:\Users\dell\source\repos\AccountDemo\obj\Debug\AccountDemo.pdb

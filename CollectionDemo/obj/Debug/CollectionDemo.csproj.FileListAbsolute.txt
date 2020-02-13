@@ -1,0 +1,6 @@
+E:\C#\CollectionDemo\obj\Debug\CollectionDemo.csprojAssemblyReference.cache
+E:\C#\CollectionDemo\bin\Debug\CollectionDemo.exe.config
+E:\C#\CollectionDemo\bin\Debug\CollectionDemo.exe
+E:\C#\CollectionDemo\bin\Debug\CollectionDemo.pdb
+E:\C#\CollectionDemo\obj\Debug\CollectionDemo.exe
+E:\C#\CollectionDemo\obj\Debug\CollectionDemo.pdb

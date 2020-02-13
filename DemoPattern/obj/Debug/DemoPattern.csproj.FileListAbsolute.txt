@@ -1,0 +1,6 @@
+E:\C#\DemoPattern\bin\Debug\DemoPattern.exe.config
+E:\C#\DemoPattern\bin\Debug\DemoPattern.exe
+E:\C#\DemoPattern\bin\Debug\DemoPattern.pdb
+E:\C#\DemoPattern\obj\Debug\DemoPattern.csprojAssemblyReference.cache
+E:\C#\DemoPattern\obj\Debug\DemoPattern.exe
+E:\C#\DemoPattern\obj\Debug\DemoPattern.pdb

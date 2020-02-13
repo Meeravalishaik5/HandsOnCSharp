@@ -1,0 +1,6 @@
+E:\C#\SwitchcaseStatement\bin\Debug\SwitchcaseStatement.exe.config
+E:\C#\SwitchcaseStatement\bin\Debug\SwitchcaseStatement.exe
+E:\C#\SwitchcaseStatement\bin\Debug\SwitchcaseStatement.pdb
+E:\C#\SwitchcaseStatement\obj\Debug\SwitchcaseStatement.csprojAssemblyReference.cache
+E:\C#\SwitchcaseStatement\obj\Debug\SwitchcaseStatement.exe
+E:\C#\SwitchcaseStatement\obj\Debug\SwitchcaseStatement.pdb

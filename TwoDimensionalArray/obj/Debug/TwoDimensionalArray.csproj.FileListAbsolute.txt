@@ -1,0 +1,6 @@
+C:\Users\dell\source\repos\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.exe.config
+C:\Users\dell\source\repos\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.exe
+C:\Users\dell\source\repos\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.pdb
+C:\Users\dell\source\repos\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.exe
+C:\Users\dell\source\repos\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.pdb

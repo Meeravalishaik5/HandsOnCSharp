@@ -1,0 +1,6 @@
+E:\Meeravali\MyFirstApplication\bin\Debug\MyFirstApplication.exe.config
+E:\Meeravali\MyFirstApplication\bin\Debug\MyFirstApplication.exe
+E:\Meeravali\MyFirstApplication\bin\Debug\MyFirstApplication.pdb
+E:\Meeravali\MyFirstApplication\obj\Debug\MyFirstApplication.csprojAssemblyReference.cache
+E:\Meeravali\MyFirstApplication\obj\Debug\MyFirstApplication.exe
+E:\Meeravali\MyFirstApplication\obj\Debug\MyFirstApplication.pdb

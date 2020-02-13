@@ -1,0 +1,6 @@
+E:\C#\DemoProtected\bin\Debug\DemoProtected.exe.config
+E:\C#\DemoProtected\bin\Debug\DemoProtected.exe
+E:\C#\DemoProtected\bin\Debug\DemoProtected.pdb
+E:\C#\DemoProtected\obj\Debug\DemoProtected.csprojAssemblyReference.cache
+E:\C#\DemoProtected\obj\Debug\DemoProtected.exe
+E:\C#\DemoProtected\obj\Debug\DemoProtected.pdb

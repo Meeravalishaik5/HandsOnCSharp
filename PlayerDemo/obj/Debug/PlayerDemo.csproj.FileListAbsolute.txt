@@ -1,0 +1,6 @@
+E:\C#\PlayerDemo\bin\Debug\PlayerDemo.exe.config
+E:\C#\PlayerDemo\bin\Debug\PlayerDemo.exe
+E:\C#\PlayerDemo\bin\Debug\PlayerDemo.pdb
+E:\C#\PlayerDemo\obj\Debug\PlayerDemo.csprojAssemblyReference.cache
+E:\C#\PlayerDemo\obj\Debug\PlayerDemo.exe
+E:\C#\PlayerDemo\obj\Debug\PlayerDemo.pdb

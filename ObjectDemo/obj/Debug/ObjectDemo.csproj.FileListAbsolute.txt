@@ -1,0 +1,6 @@
+E:\C#\ObjectDemo\bin\Debug\ObjectDemo.exe.config
+E:\C#\ObjectDemo\bin\Debug\ObjectDemo.exe
+E:\C#\ObjectDemo\bin\Debug\ObjectDemo.pdb
+E:\C#\ObjectDemo\obj\Debug\ObjectDemo.csprojAssemblyReference.cache
+E:\C#\ObjectDemo\obj\Debug\ObjectDemo.exe
+E:\C#\ObjectDemo\obj\Debug\ObjectDemo.pdb

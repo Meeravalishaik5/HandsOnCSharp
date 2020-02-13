@@ -1,0 +1,6 @@
+E:\C#\DemoonDelegates\bin\Debug\DemoonDelegates.exe.config
+E:\C#\DemoonDelegates\bin\Debug\DemoonDelegates.exe
+E:\C#\DemoonDelegates\bin\Debug\DemoonDelegates.pdb
+E:\C#\DemoonDelegates\obj\Debug\DemoonDelegates.csprojAssemblyReference.cache
+E:\C#\DemoonDelegates\obj\Debug\DemoonDelegates.exe
+E:\C#\DemoonDelegates\obj\Debug\DemoonDelegates.pdb

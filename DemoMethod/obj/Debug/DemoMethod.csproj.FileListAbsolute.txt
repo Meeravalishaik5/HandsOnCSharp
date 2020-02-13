@@ -1,0 +1,6 @@
+C:\Users\dell\source\repos\DemoMethod\bin\Debug\DemoMethod.exe.config
+C:\Users\dell\source\repos\DemoMethod\bin\Debug\DemoMethod.exe
+C:\Users\dell\source\repos\DemoMethod\bin\Debug\DemoMethod.pdb
+C:\Users\dell\source\repos\DemoMethod\obj\Debug\DemoMethod.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\DemoMethod\obj\Debug\DemoMethod.exe
+C:\Users\dell\source\repos\DemoMethod\obj\Debug\DemoMethod.pdb

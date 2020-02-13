@@ -1,0 +1,6 @@
+E:\C#\JaggedArrayDemo\bin\Debug\JaggedArrayDemo.exe.config
+E:\C#\JaggedArrayDemo\bin\Debug\JaggedArrayDemo.exe
+E:\C#\JaggedArrayDemo\bin\Debug\JaggedArrayDemo.pdb
+E:\C#\JaggedArrayDemo\obj\Debug\JaggedArrayDemo.csprojAssemblyReference.cache
+E:\C#\JaggedArrayDemo\obj\Debug\JaggedArrayDemo.exe
+E:\C#\JaggedArrayDemo\obj\Debug\JaggedArrayDemo.pdb

@@ -1,0 +1,6 @@
+E:\Meeravali\VariablesWithDatatypes\bin\Debug\VariablesWithDatatypes.exe.config
+E:\Meeravali\VariablesWithDatatypes\bin\Debug\VariablesWithDatatypes.exe
+E:\Meeravali\VariablesWithDatatypes\bin\Debug\VariablesWithDatatypes.pdb
+E:\Meeravali\VariablesWithDatatypes\obj\Debug\VariablesWithDatatypes.csprojAssemblyReference.cache
+E:\Meeravali\VariablesWithDatatypes\obj\Debug\VariablesWithDatatypes.exe
+E:\Meeravali\VariablesWithDatatypes\obj\Debug\VariablesWithDatatypes.pdb

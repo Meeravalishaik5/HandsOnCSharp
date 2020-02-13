@@ -1,0 +1,6 @@
+E:\C#\CollectionProject\bin\Debug\CollectionProject.exe.config
+E:\C#\CollectionProject\bin\Debug\CollectionProject.exe
+E:\C#\CollectionProject\bin\Debug\CollectionProject.pdb
+E:\C#\CollectionProject\obj\Debug\CollectionProject.csprojAssemblyReference.cache
+E:\C#\CollectionProject\obj\Debug\CollectionProject.exe
+E:\C#\CollectionProject\obj\Debug\CollectionProject.pdb
